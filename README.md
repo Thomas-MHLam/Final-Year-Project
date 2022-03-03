@@ -8,7 +8,7 @@ The APP should have a video analytic function and Machine Learning Engine to rec
 The APP should be able to learn from the photographs collected and analyze and assign them to the appropriate category and file folder based on the location of the photo (GPS) and the size of the defects. This will enable more effective analysis and triggering of maintenance actions and timely reporting of potentially serious issues.
 
 # Description
-The code is written in jupyter notebook and the basic neural network framework is referenced from Patrick Loeber[1]. The final version of the project will be updated at the end of May 2022, which would contains the front-end code that have written for React-Native.
+The code is written for python 3.7 and the basic neural network framework is referenced from Patrick Loeber[1]. The final version of the project will be updated at the end of May 2022, which would contains the front-end code that have written for React-Native.
 
 
 
