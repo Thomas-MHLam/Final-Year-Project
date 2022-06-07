@@ -10,4 +10,6 @@ The architecture of the neural network is ResNet18, which is a residual mapping 
 The code is written for Python 3.7. 
 
 # Demostration 
-https://youtu.be/QgkNHmqzsfY
+https://user-images.githubusercontent.com/91175041/172419334-3fb43c66-a45d-4973-a340-8e14a216c6ff.mp4
+
+
